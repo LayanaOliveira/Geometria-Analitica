@@ -1,0 +1,39 @@
+Conteúdo: Distância entre ponto e reta/ Posições relativas entre reta e circunferência
+
+Questão 01.
+Em relação a um sistema cartesiano xOy, em que a unidade nos eixos é o quilômetro, um trecho de uma autoestrada pode ser descrito pela equação 4x + 3y - 24 = 0, para 0 <= x <= 6 e 0 <= y <= 8,
+Uma estrada vicinal deve ser construída, em linha reta, ligando esse trecho da autoestrada ao ponto P(0, -2).
+
+a) Construa o gráfico cartesiano representando o trecho da autoestrada e o ponto P.
+
+b) Sabendo que a estrada vicinal pode ser construída em qualquer posição, calcule o menor comprimento possível dessa estrada.
+
+c) Determine as coordenadas do ponto Q da autoestrada de modo que a estrada vicinal tenha o menor comprimento possível.
+
+Questão 02.
+Determine a distÂncia entre as retas paralelas r e s nos seguintes casos:
+a) (r) x + 7y - 8 = 0 (s) x + 7y - 2 = 0
+
+b) (r) y = 12x/5 + 1 (s) y = 12x/5 - 3
+
+c) (r) x - 4 = 0 (s) x - 9 = 0
+
+Questão 03.
+Descreve a posição da reta s em relação à circunferência ʎ, em cada um dos casos a seguir:
+a) (s) 3x + 4y + 19 = 0 e (ʎ) (x-1)**2 + (y-2)**2 = 25
+
+b) (s) 12x - 5y - 6 = 0 e (ʎ) x**2 + (y-4)**2 = 9
+
+c) (s) y = x/4 + 1 e (ʎ) x**2 + y**2 - 10x + 4y + 12 = 0
+
+Questão 04.
+(Ufac) Considere a reta (r ): x - 3y + 5 = 0 e a circunferência (C): x2 + y2 + 4x - 4y - 1 = 0 contidas em um mesmo plano. Em relação a estes objetos matemáticos é errado afirmar que:
+a) A reta r é secante à circunferência C.
+
+b) Eles têm pelo menos um ponto em comum.
+
+c) Toda reta tangente à circunferência C é paralela à reta r.
+
+d) O ponto (-2, 1) está sobre r mas não está sobre C.
+
+e) O ponto (1/sqrt(2), 1/sqrt(2) está sobre C, mas não está sobre r. 
